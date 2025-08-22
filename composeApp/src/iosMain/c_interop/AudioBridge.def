@@ -1,0 +1,3 @@
+headers = AudioBridge.h
+compilerOpts = -I${projectDir}/../../../../iosApp/iosApp
+linkerOpts = -L${projectDir}/../../../../iosApp/iosApp 

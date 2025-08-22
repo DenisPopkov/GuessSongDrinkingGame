@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Фон иконки (прозрачный) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,0h108v108h-108z"/>
+    
+    <!-- Стакан -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,25 L30,75 L78,75 L78,25 Z"/>
+    
+    <!-- Ободок стакана -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M25,25 L83,25 L83,30 L25,30 Z"/>
+    
+    <!-- Жидкость в стакане -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M32,30 L32,70 L76,70 L76,30 Z"/>
+    
+    <!-- Пузырьки -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,45 A3,3 0 1,1 40,51 A3,3 0 1,1 40,45 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55,50 A2,2 0 1,1 55,54 A2,2 0 1,1 55,50 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,40 A2.5,2.5 0 1,1 70,45 A2.5,2.5 0 1,1 70,40 Z"/>
+    
+    <!-- Музыкальная нота -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M60,15 L60,35 L65,35 L65,25 L70,25 L70,20 L65,20 Z"/>
+    
+    <!-- Нотный лист -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15,20 L35,20 L35,40 L15,40 Z"/>
+    
+    <!-- Линии нотного стана -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M18,25 L32,25"/>
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M18,28 L32,28"/>
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M18,31 L32,31"/>
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M18,34 L32,34"/>
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M18,37 L32,37"/>
+    
+    <!-- Ноты на стане -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M25,23 A2,2 0 1,1 25,27 A2,2 0 1,1 25,23 Z"/>
+    <path
+        android:fillColor="#000000"
+        android:pathData="M28,30 A2,2 0 1,1 28,34 A2,2 0 1,1 28,30 Z"/>
+    
+    <!-- Вопрос (символ угадывания) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M85,15 L95,15 L95,25 L90,25 L90,30 L85,30 Z"/>
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M87,35 A2,2 0 1,1 87,39 A2,2 0 1,1 87,35 Z"/>
+</vector> 
